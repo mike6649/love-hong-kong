@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;upa-util&apos; to &apos;rpa-util&apos;" description="Rename resource &apos;upa-util&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/upa-util" name="rpa-util" stamp="1564905168755" updateReferences="true"/>
+</session>

@@ -30,12 +30,8 @@ public class ExcelReader<T> {
 	private Map<Integer,String> cellTypeMap = new HashMap<Integer,String>();
 //	private Map<>
 	
-	public ExcelReader(String file, String sheet) {
-		this(new File(file),sheet);
-		
-	}
 	
-	public ExcelReader(File file, String sheet){
+	public ExcelReader(File file, String sheet, boolean checkColumnNames){
 		this.sheetName = sheet; 
 		this.file = file;
 		

@@ -1,0 +1,13 @@
+package com.bahn;
+
+import com.bahn.util.web.RnDChromeDriver;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		RnDChromeDriver driver = new RnDChromeDriver();
+		driver.get("");
+
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.bahn.bean;
+
+public class Backup {
+	
+	public String time;
+	
+}

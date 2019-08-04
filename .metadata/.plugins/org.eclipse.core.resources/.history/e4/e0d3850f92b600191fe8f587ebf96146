@@ -1,0 +1,31 @@
+package com.bahn.excel;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.Reader;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.poi.ss.formula.functions.T;
+
+public class RnDCSVReader {
+	
+	private File file;
+	private Reader in;
+	
+	RnDCSVReader(File file){
+		this.file = file;
+		Reader = new FileReader(file);
+	}
+	
+	List<T> readAsList(T dummy){
+		List<T> list = new ArrayList<T>();
+		
+		return list;
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}

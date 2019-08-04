@@ -1,0 +1,25 @@
+package com.bahn.bean;
+
+import com.bahn.util.excel.ExcelColumnBinding;
+
+public class PhotoBackup {
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String time;
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String type;
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String hit;
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String violence;
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String obsInterview;
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String tearGas;
+
+}

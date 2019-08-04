@@ -1,0 +1,11 @@
+package com.bahn.bean;
+
+public class PhotoBackup {
+	
+	public String time;
+	
+	public String type;
+	
+	public List<String> urlList;
+
+}

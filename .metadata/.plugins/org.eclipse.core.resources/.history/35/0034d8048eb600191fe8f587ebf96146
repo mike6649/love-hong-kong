@@ -1,0 +1,7 @@
+package com.bahn;
+
+import com.bahn.util.excel.ExcelReader;
+
+public class BackupExcelReader extends ExcelReader<T> {
+
+}

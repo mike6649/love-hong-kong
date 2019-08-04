@@ -1,0 +1,5 @@
+package com.bahn.bean;
+
+public class BackupBean {
+
+}

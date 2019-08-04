@@ -1,0 +1,14 @@
+package com.bahn;
+
+import java.io.File;
+
+import com.bahn.util.excel.ExcelReader;
+
+public class BackupExcelReader extends ExcelReader<T> {
+
+	public BackupExcelReader(File file, String sheet) {
+		super(file, sheet);
+		// TODO Auto-generated constructor stub
+	}
+
+}

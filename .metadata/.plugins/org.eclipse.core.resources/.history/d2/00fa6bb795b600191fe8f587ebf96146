@@ -1,0 +1,42 @@
+package com.bahn;
+
+import java.io.File;
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+
+import com.bahn.bean.PhotoBackup;
+import com.bahn.excel.RnDCSVReader;
+import com.bahn.util.web.RnDChromeDriver;
+
+public class LoveHongKongConnector {
+
+	public static void main(String[] args) {
+		try {
+
+			System.setProperty("webdriver.chrome.driver",
+					LoveHongKongConnector.class.getResource("/chromedriver.exe").getFile());
+
+			WebDriver driver = new RnDChromeDriver();
+			RnDCSVReader reader = new RnDCSVReader(new File("C:\\Users\\michael\\Downloads\\backup-pics.csv"));
+			List<PhotoBackup> list = reader.readAsList();
+			
+			for (PhotoBackup bak : list) {
+				if (bak.urlList.isEmpty()){
+					System.err.println("[WARNING] " + bak.time + " contains no URLs to navigate");
+					continue;
+				}
+				
+				for (String url : bak.urlList){
+					if (!url.startsWith("http")){
+						url = "http://" + url;
+					}
+					driver.get(url);
+				}
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

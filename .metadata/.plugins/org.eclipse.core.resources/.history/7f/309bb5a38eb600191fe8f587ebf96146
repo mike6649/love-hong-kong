@@ -1,0 +1,14 @@
+package com.bahn.bean;
+
+import com.bahn.util.excel.ExcelColumnBinding;
+
+public class PhotoBackup {
+	
+	@ExcelColumnBinding(columnName = "時間戳記", columnPos = 0)
+	public String time;
+	
+	public String type;
+	
+	
+	
+}

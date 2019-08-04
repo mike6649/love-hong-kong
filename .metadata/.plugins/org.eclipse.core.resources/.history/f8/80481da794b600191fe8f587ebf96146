@@ -1,0 +1,14 @@
+package com.bahn;
+
+import com.bahn.util.web.RnDChromeDriver;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", TestMain.class.getResource("/chromedriver.exe").getFile());
+		RnDChromeDriver driver = new RnDChromeDriver();
+		driver.get("www.google.com");
+
+	}
+
+}

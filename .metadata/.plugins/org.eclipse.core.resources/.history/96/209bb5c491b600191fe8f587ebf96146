@@ -1,0 +1,21 @@
+package com.bahn.excel;
+
+import java.io.File;
+
+public class RnDCSVReader {
+	
+	public File file;
+	
+	RnDCSVReader(File file){
+		this.File = file;
+	}
+	
+	List<T> readAsList(){
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}

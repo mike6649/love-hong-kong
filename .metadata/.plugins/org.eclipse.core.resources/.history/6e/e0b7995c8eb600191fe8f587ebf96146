@@ -1,0 +1,12 @@
+package com.bahn.bean;
+
+public class Backup {
+	
+	@ExcelColumnBinding()
+	public String time;
+	
+	public String type;
+	
+	
+	
+}

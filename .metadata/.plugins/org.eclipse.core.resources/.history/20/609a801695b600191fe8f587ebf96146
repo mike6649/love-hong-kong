@@ -1,0 +1,25 @@
+package com.bahn;
+
+import java.io.File;
+
+import org.openqa.selenium.WebDriver;
+
+import com.bahn.excel.RnDCSVReader;
+import com.bahn.util.web.RnDChromeDriver;
+
+public class LoveHongKongConnector {
+
+	public static void main(String[] args) {
+		try {
+			
+
+		System.setProperty("webdriver.chrome.driver", LoveHongKongConnector.class.getResource("/chromedriver.exe").getFile());
+		
+		WebDriver driver = new RnDChromeDriver();
+		RnDCSVReader reader = new RnDCSVReader(new File("C:\\Users\\michael\\Downloads\\backup-pics.csv"));
+		} catch (Exception e){
+			e.printStackTrace();
+		}
+	}
+
+}

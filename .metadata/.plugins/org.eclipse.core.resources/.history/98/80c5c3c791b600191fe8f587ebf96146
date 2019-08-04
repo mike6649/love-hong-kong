@@ -1,0 +1,24 @@
+package com.bahn.excel;
+
+import java.io.File;
+import java.util.List;
+
+import org.apache.poi.ss.formula.functions.T;
+
+public class RnDCSVReader {
+	
+	public File file;
+	
+	RnDCSVReader(File file){
+		this.File = file;
+	}
+	
+	List<T> readAsList(T dummy){
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}
