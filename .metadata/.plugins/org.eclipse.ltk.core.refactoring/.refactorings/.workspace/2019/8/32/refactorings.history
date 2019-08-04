@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;upa-util&apos; to &apos;rpa-util&apos;" description="Rename resource &apos;upa-util&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/upa-util" name="rpa-util" stamp="1564905168755" updateReferences="true"/>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;upa-util&apos; to &apos;rpa-util&apos;" description="Rename resource &apos;upa-util&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/upa-util" name="rpa-util" stamp="1564905168755" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;excel-util&apos;" deleteContents="true" description="Delete resource &apos;excel-util&apos;" element1="/excel-util" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1564910790544"/>
 </session>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_POKBEbaKEembPJifeMTKdw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_POKBEraKEembPJifeMTKdw" bindingContexts="_POKBFLaKEembPJifeMTKdw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;love-hong-kong-main/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDChromeDriver.java&quot; tooltip=&quot;rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;rpa-util/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/rpa-util/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDCSVReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PhotoBackup.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelReader.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelWriter.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelWriter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelWriter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelColumnBinding.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelColumnBinding.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelColumnBinding.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BackupExcelReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;excel-util/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoveHongKongConnector.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BackupExcelReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDCSVReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;rpa-util/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/rpa-util/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;love-hong-kong-main/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDChromeDriver.java&quot; tooltip=&quot;rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PhotoBackup.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelReader.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelReader.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelReader.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelWriter.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelWriter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelWriter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ExcelColumnBinding.java&quot; tooltip=&quot;excel-util/src/main/java/com/bahn/util/excel/ExcelColumnBinding.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/src/main/java/com/bahn/util/excel/ExcelColumnBinding.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;excel-util/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/excel-util/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_POKBEraKEembPJifeMTKdw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PdalEraKEembPJifeMTKdw" label="%trimmedwindow.label.eclipseSDK" x="-10" y="0" width="1620" height="1750">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_POKBEraKEembPJifeMTKdw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PdalEraKEembPJifeMTKdw" label="%trimmedwindow.label.eclipseSDK" x="6" y="-10" width="1620" height="1750">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
-    <persistedState key="aggregateWorkingSetId"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1564910775633"/>
     <tags>topLevel</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_PdalEraKEembPJifeMTKdw" selectedElement="_PdalE7aKEembPJifeMTKdw" horizontal="true">
@@ -73,13 +73,13 @@
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.actionSet:org.eclipse.wst.ws.explorer.explorer</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_PkqckbaKEembPJifeMTKdw" selectedElement="_Pkqcl7aKEembPJifeMTKdw" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_PkqckraKEembPJifeMTKdw" elementId="topLeft" containerData="2500" selectedElement="_Pkqck7aKEembPJifeMTKdw">
+            <children xsi:type="basic:PartStack" xmi:id="_PkqckraKEembPJifeMTKdw" elementId="topLeft" containerData="4824" selectedElement="_Pkqck7aKEembPJifeMTKdw">
               <children xsi:type="advanced:Placeholder" xmi:id="_Pkqck7aKEembPJifeMTKdw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_PkigwLaKEembPJifeMTKdw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PkqclLaKEembPJifeMTKdw" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_PkjH0LaKEembPJifeMTKdw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PkqclbaKEembPJifeMTKdw" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_PkjH0baKEembPJifeMTKdw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PkqclraKEembPJifeMTKdw" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_PkmyMLaKEembPJifeMTKdw"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_Pkqcl7aKEembPJifeMTKdw" containerData="7500" selectedElement="_PkqcmLaKEembPJifeMTKdw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_Pkqcl7aKEembPJifeMTKdw" containerData="5176" selectedElement="_PkqcmLaKEembPJifeMTKdw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_PkqcmLaKEembPJifeMTKdw" containerData="7000" selectedElement="_PkqcmbaKEembPJifeMTKdw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_PkqcmbaKEembPJifeMTKdw" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_PkdBMLaKEembPJifeMTKdw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_PkqcmraKEembPJifeMTKdw" elementId="topRight" containerData="3000" selectedElement="_Pkqcm7aKEembPJifeMTKdw">
@@ -146,7 +146,7 @@
           <tags>persp.showIn:org.eclipse.wst.jsdt.ui.PackageExplorer</tags>
           <tags>persp.perspSC:org.eclipse.wst.xml.ui.perspective</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_lsDbYbaTEembPJifeMTKdw" selectedElement="_lsDbYraTEembPJifeMTKdw">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_lsDbYraTEembPJifeMTKdw" containerData="7500" selectedElement="_lsDbY7aTEembPJifeMTKdw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_lsDbYraTEembPJifeMTKdw" containerData="7500" selectedElement="_lsDbb7aTEembPJifeMTKdw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_lsDbY7aTEembPJifeMTKdw" containerData="1991" selectedElement="_lsDbZLaTEembPJifeMTKdw" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_lsDbZLaTEembPJifeMTKdw" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="4699" selectedElement="_lsDbZbaTEembPJifeMTKdw">
                   <tags>org.eclipse.e4.primaryNavigationStack</tags>
@@ -216,28 +216,10 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_PkdBMLaKEembPJifeMTKdw" elementId="org.eclipse.ui.editorss" selectedElement="_PkdBMbaKEembPJifeMTKdw">
-      <children xsi:type="basic:PartStack" xmi:id="_PkdBMbaKEembPJifeMTKdw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_pOu0wLaPEembPJifeMTKdw">
+      <children xsi:type="basic:PartStack" xmi:id="_PkdBMbaKEembPJifeMTKdw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_kGJ68LabEem--v2RxRKL7w">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_sunOQLaKEembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LoveHongKongConnector.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoveHongKongConnector.java&quot; partName=&quot;LoveHongKongConnector.java&quot; title=&quot;LoveHongKongConnector.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1399&quot; selectionTopPixel=&quot;217&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_3ELB8LaMEembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="rpa-util/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;rpa-util/pom.xml&quot; title=&quot;rpa-util/pom.xml&quot; tooltip=&quot;rpa-util/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/rpa-util/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_AQqKMLaOEembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BackupExcelReader.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BackupExcelReader.java&quot; partName=&quot;BackupExcelReader.java&quot; title=&quot;BackupExcelReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/BackupExcelReader.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;190&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
         <children xsi:type="basic:Part" xmi:id="_GBZZwLaOEembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PhotoBackup.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PhotoBackup.java&quot; partName=&quot;PhotoBackup.java&quot; title=&quot;PhotoBackup.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/bean/PhotoBackup.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;162&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -249,14 +231,6 @@
           <tags>Editor</tags>
           <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_KmrbcLaREembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RnDCSVReader.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDCSVReader.java&quot; partName=&quot;RnDCSVReader.java&quot; title=&quot;RnDCSVReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;469&quot; selectionTopPixel=&quot;265&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_mszUcLaYEembPJifeMTKdw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RnDChromeDriver.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDChromeDriver.java&quot; partName=&quot;RnDChromeDriver.java&quot; title=&quot;RnDChromeDriver.java&quot; tooltip=&quot;rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/rpa-util/src/main/java/com/bahn/util/web/RnDChromeDriver.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;15&quot; selectionOffset=&quot;483&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -264,12 +238,26 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
+        <children xsi:type="basic:Part" xmi:id="_iBR5ILabEem--v2RxRKL7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RnDCSVReader.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RnDCSVReader.java&quot; partName=&quot;RnDCSVReader.java&quot; title=&quot;RnDCSVReader.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/excel/RnDCSVReader.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;993&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_kGJ68LabEem--v2RxRKL7w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LoveHongKongConnector.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoveHongKongConnector.java&quot; partName=&quot;LoveHongKongConnector.java&quot; title=&quot;LoveHongKongConnector.java&quot; tooltip=&quot;love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/love-hong-kong-main/src/main/java/com/bahn/LoveHongKongConnector.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1306&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_PkigwLaKEembPJifeMTKdw" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1564910775633&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_PlSusLaKEembPJifeMTKdw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -483,7 +471,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Pex3ALaKEembPJifeMTKdw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Pe4ksLaKEembPJifeMTKdw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_POf_qLaKEembPJifeMTKdw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_4n_SMLaZEem--v2RxRKL7w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_POf_qLaKEembPJifeMTKdw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Pex3AbaKEembPJifeMTKdw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -498,7 +486,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_PsbRcLaKEembPJifeMTKdw" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_szE3gLaKEembPJifeMTKdw" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_szE3gLaKEembPJifeMTKdw" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PsSHgLaKEembPJifeMTKdw" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet">
@@ -513,7 +501,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Pex3BbaKEembPJifeMTKdw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Pe5y0baKEembPJifeMTKdw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_POfY3raKEembPJifeMTKdw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_4oAgU7aZEem--v2RxRKL7w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_POfY3raKEembPJifeMTKdw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PeyeELaKEembPJifeMTKdw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3072,7 +3060,7 @@
   <addons xmi:id="_POKoJraKEembPJifeMTKdw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_POKoJ7aKEembPJifeMTKdw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_PONrcLaKEembPJifeMTKdw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_4X-gQLaZEem--v2RxRKL7w" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_PObG0LaKEembPJifeMTKdw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_PObG0baKEembPJifeMTKdw" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>

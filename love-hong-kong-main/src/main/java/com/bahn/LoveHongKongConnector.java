@@ -37,8 +37,7 @@ public class LoveHongKongConnector {
 					try {
 						driver.get(url);
 					} catch (WebDriverException e){
-						System.out.println(e.getMessage());
-						System.out.println(url);
+						System.out.println("[ERROR] " + url + " is an invalid URL");
 						continue;
 					}
 					System.out.println();

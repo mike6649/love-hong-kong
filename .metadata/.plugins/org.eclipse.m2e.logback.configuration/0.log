@@ -612,3 +612,214 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2019-08-04 17:19:00,094 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-08-04 17:19:00,095 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-08-04 17:19:00,096 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:32,017 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:26:32,976 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/bahn/util/excel-util/1.0.0/excel-util-1.0.0.pom
+2019-08-04 17:26:32,979 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bahn.util:excel-util:jar:1.0.0 is missing, no dependency information available
+2019-08-04 17:26:33,871 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/bahn/util/excel-util/1.0.0/excel-util-1.0.0.jar
+2019-08-04 17:26:34,248 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.bahn.util:excel-util:jar:1.0.0 is missing, no dependency information available
+2019-08-04 17:26:34,700 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:34,704 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:26:34,708 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:34,709 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:40,195 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:26:40,534 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:40,536 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:40,538 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:40,538 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:42,050 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:42,052 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:26:42,056 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:42,057 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:46,570 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-04 17:26:46,971 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:26:47,295 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/main/java
+2019-08-04 17:26:47,296 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/main/resources
+2019-08-04 17:26:47,296 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/test/java
+2019-08-04 17:26:47,296 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/test/resources
+2019-08-04 17:26:47,395 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-08-04 17:26:47,713 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:47,714 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:26:47,718 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:47,719 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:26:49,041 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:49,043 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:26:49,044 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:26:49,044 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:24,771 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:24,772 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:24,773 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:24,773 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:24,903 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:24,904 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:24,905 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:24,906 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:28,688 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:28,689 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:28,690 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:28,690 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:30,611 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:30,612 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:30,614 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:30,614 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:40,000 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:40,001 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:40,002 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:40,003 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:41,568 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:41,570 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:41,573 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:41,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:41,703 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:41,704 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:41,705 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:41,706 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:54,143 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:54,144 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:54,145 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:54,146 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:54,273 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:54,274 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:54,275 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:54,276 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:56,649 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:56,650 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:56,652 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:56,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:27:59,762 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:59,765 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:27:59,768 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:27:59,769 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:03,190 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:03,191 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:03,192 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:03,192 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:08,914 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:08,915 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:08,916 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:08,916 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:25,928 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:25,929 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:25,930 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:25,931 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:39,772 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:39,773 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:39,774 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:39,775 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:54,060 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-04 17:28:54,600 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:28:54,963 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/main/java
+2019-08-04 17:28:54,964 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/main/resources
+2019-08-04 17:28:54,964 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/test/java
+2019-08-04 17:28:54,965 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/test/resources
+2019-08-04 17:28:55,060 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-08-04 17:28:55,353 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:55,354 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:55,359 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:55,359 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:28:56,658 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:56,660 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:28:56,661 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:28:56,661 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:29:40,770 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-08-04 17:29:59,268 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:29:59,268 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean package
+2019-08-04 17:30:25,562 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-08-04 17:30:43,959 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:30:43,959 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean package
+2019-08-04 17:31:02,085 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:02,086 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:31:02,087 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:02,088 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:12,254 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-04 17:31:12,329 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:rpa-util:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\rpa-util\pom.xml.
+2019-08-04 17:31:12,568 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpa-util/src/main/java
+2019-08-04 17:31:12,568 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpa-util/src/main/resources
+2019-08-04 17:31:12,568 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpa-util/src/test/java
+2019-08-04 17:31:12,568 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpa-util/src/test/resources
+2019-08-04 17:31:12,680 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-08-04 17:31:13,055 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:13,056 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:13,057 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:13,058 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:13,082 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:13,083 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:31:13,085 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:13,086 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:14,123 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:14,124 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:31:14,125 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:14,126 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:21,642 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-08-04 17:31:34,319 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:34,320 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:31:34,321 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:31:34,321 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:31:35,381 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\rpa-util
+2019-08-04 17:31:35,382 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean install
+2019-08-04 17:33:44,714 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:33:44,714 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:33:44,717 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:33:44,719 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:33:44,733 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:33:44,734 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:33:44,735 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:33:44,736 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:33:48,308 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\rpa-util
+2019-08-04 17:33:48,308 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean install
+2019-08-04 17:34:46,624 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\rpa-util
+2019-08-04 17:34:46,624 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean install
+2019-08-04 17:34:58,636 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-04 17:34:58,705 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:34:59,004 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/main/java
+2019-08-04 17:34:59,005 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/main/resources
+2019-08-04 17:34:59,005 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/test/java
+2019-08-04 17:34:59,005 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/test/resources
+2019-08-04 17:34:59,095 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-08-04 17:34:59,405 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:34:59,406 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:34:59,408 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:34:59,409 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:00,490 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:00,491 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:35:00,492 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:00,493 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:24,738 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-04 17:35:25,248 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:love-hong-kong-main:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main\pom.xml.
+2019-08-04 17:35:25,480 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bahn:rpa-util:1.0.0 @ C:\Users\michael\Documents\workspace\love-hong-kong\rpa-util\pom.xml.
+2019-08-04 17:35:25,786 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/main/java
+2019-08-04 17:35:25,786 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/main/resources
+2019-08-04 17:35:25,787 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /love-hong-kong-main/src/test/java
+2019-08-04 17:35:25,787 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /love-hong-kong-main/src/test/resources
+2019-08-04 17:35:25,882 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-08-04 17:35:26,172 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:26,174 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:26,175 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:26,176 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:26,362 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:26,362 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:35:26,367 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:26,368 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:27,654 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:27,655 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:35:27,657 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:35:27,657 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:35:57,430 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:35:57,430 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean package
+2019-08-04 17:36:25,378 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:36:25,378 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean package
+2019-08-04 17:36:34,575 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:36:34,576 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:36:34,577 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:36:34,578 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:37:38,881 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:37:38,881 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean package
+2019-08-04 17:38:03,173 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:38:03,174 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-04 17:38:03,197 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:38:03,198 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:38:04,223 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:38:04,224 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:38:04,225 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-04 17:38:04,226 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-04 17:38:35,454 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\michael\Documents\workspace\love-hong-kong\love-hong-kong-main
+2019-08-04 17:38:35,454 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dmaven.test.skip=true -DskipTests clean package
